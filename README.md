@@ -1,6 +1,6 @@
 # ChuckJokesVue
 
 ## Description
-Activity 12
-Diego N
-Diseño de aplicaciones web
+Activity 12<br>
+Diego N<br>
+Diseño de aplicaciones web<br>
